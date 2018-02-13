@@ -15,10 +15,10 @@
                    <input type="file" class="form-control-file " id="exampleFormControlFile1" multiple="multiple">
                <!-- <small id="fileHelp" class="form-text text-muted"></small> -->
               </div>    
-              <div class="text-center">
+              <!-- <div class="text-center"> -->
                 <button type="submit" class="btn btn-primary">Submit</button>
                 
-              </div>
+              <!-- </div> -->
             </form>
             
           </div>

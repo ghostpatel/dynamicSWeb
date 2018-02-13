@@ -24,7 +24,7 @@
     </head>
 
     <body onload=dynamicpageload("landingpage.php")>
-        <div class="row no-margin wrapper" style="background-color: pink; height: 100%;">
+        <div class="row no-margin wrapper" style=" height: 100%;">
         <!-- <div class="wrapper"> -->
             
             <!-- <div class="col scrollContainerY" style="width: 30%"> -->
