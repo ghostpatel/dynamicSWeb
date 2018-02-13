@@ -1,0 +1,12 @@
+/*action_page css start*/
+.form-control-file{
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	padding: .375rem .75rem;
+}
+.bodycolor{
+	background-image: url("../images/paper.jpg");
+}
+
+/*action_page css end*/
+
